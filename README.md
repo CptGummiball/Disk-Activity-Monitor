@@ -2,7 +2,7 @@
 
 **Real-time Monitoring: Which process is accessing which storage device?**
 
-A lightweight Windows desktop tool that shows in real-time which processes are accessing which drives – including read/write speeds, drive mapping, and a dark, professional UI.
+A lightweight Windows desktop tool that shows in real-time which processes are accessing which drives – including read/write speeds and drive mapping.
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=flat-square&logo=powershell)
